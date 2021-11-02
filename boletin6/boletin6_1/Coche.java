@@ -18,10 +18,20 @@ public void setVelocidade(int a){
 public double getVelocidade(){
 return velocidade;  
 }
-public void acelerar(int valor){
+
+    /**
+     * Description of what the method does
+     * @param valor acelerar
+     */
+    public void acelerar(int valor){
 velocidade += valor;
 }
-public void frear (int frenada){
+
+    /**
+     * Description of what the method does
+     * @param frenada
+     */
+    public void frear (int frenada){
  velocidade -= frenada  ;
 }
 }
