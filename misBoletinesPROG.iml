@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/boletin2" isTestSource="false" packagePrefix="primeiroproxecto" />
       <sourceFolder url="file://$MODULE_DIR$/BOLETIN9" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
